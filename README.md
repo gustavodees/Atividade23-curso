@@ -82,6 +82,6 @@ O programa utiliza a classe `Scanner` para receber a entrada do usuário diretam
 
 ## Autor
 
-[Seu Nome]
+gustavodees
 
-[Seu Email ou Link para seu Perfil (Opcional)]
+gustavoemartins@gmail.com
